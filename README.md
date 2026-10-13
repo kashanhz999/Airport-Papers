@@ -1,6 +1,18 @@
 # Airport Papers
 
-A reference library of research reports, guidebooks and industry papers on airport planning, design and operations, mostly from the ACRP (Airport Cooperative Research Program), plus ORAT material from consultancies.
+## About me
+
+I'm **Kashan Haider**, a Master System Integration (MSI) engineer working on airport systems for a greenfield international airport (Noida International Airport). I curated this library.
+
+My work is about how an airport's operational, ICT, ELV and MEP systems connect and run together, from interface design and integration testing through to operational readiness. These papers are what I read to understand the domain behind those systems: terminal planning, airside operations, passenger processing, security, NAV-AIDS and building services.
+
+**Systems I work with:** AODB, BHS, SBD, CUPPS, CUSS, E-Gates, Digi Yatra, VDGS, PBB, PCA, GPU, AGL CMS, BMS, electrical and water SCADA, FAS, SACS, VSS, PIDS, PAMNS. The [topic guide](#topic-guide) shows which papers cover them.
+
+[LinkedIn](https://linkedin.com/in/kashanhaider110)
+
+## About this library
+
+A reference library of research reports, guidebooks and industry papers on airport planning, design and operations, mostly from the ACRP (Airport Cooperative Research Program), plus FAA, ICAO, IATA, EUROCONTROL and TSA standards and ORAT material from consultancies.
 
 95 papers, organised by topic:
 
